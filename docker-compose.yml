@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  nagios:
+    image: tronyx/nagios:latest
+    ports:
+      - '7002:80'
+    env_file: nagios.env
+    volumes:
+      - './volumes/etc/:/opt/nagios/etc/'
+      - ./volumes/var:/opt/nagios/var/
+      - ./volumes/custom-plugins:/opt/Custom-Nagios-Plugins
+      - ./volumes/nagiosgraph-var:/opt/nagiosgraph/var
+      - ./volumes/nagiosgraph-etc:/opt/nagiosgraph/etc
