@@ -1,0 +1,548 @@
+[1635292800] LOG ROTATION: DAILY
+[1635292800] LOG VERSION: 2.0
+[1635292800] CURRENT HOST STATE: admin.nasajon.com.br;UP;HARD;1;TCP OK - 0.078 second response time on admin.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: api.meurh.app;UP;HARD;1;TCP OK - 0.081 second response time on api.meurh.app port 80
+[1635292800] CURRENT HOST STATE: api.meutrabalho.app;UP;HARD;1;TCP OK - 0.077 second response time on api.meutrabalho.app port 80
+[1635292800] CURRENT HOST STATE: api.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on api.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: atendimento.nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on atendimento.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: atendimentocomercial.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on atendimentocomercial.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: auth.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on auth.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: avaliacaodesempenho.nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on avaliacaodesempenho.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: beta.admin.nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on beta.admin.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: compilacoes.nasajon.com.br;UP;HARD;1;TCP OK - 0.080 second response time on compilacoes.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: conta.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on conta.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: diretorio.nasajon.com.br;UP;HARD;1;TCP OK - 0.074 second response time on diretorio.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: gp.nasajon.com.br;UP;HARD;1;TCP OK - 0.078 second response time on gp.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: jenkins.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on jenkins.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: licencas.nasajon.com.br;UP;HARD;1;TCP OK - 0.074 second response time on licencas.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: login.nasajon.com.br;UP;HARD;1;TCP OK - 0.074 second response time on login.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: lp.nasajon.com.br;UP;HARD;1;TCP OK - 0.077 second response time on lp.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: maladireta.nasajon.com.br;UP;HARD;1;TCP OK - 0.077 second response time on maladireta.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: multinotas.nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on multinotas.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: paineldefundo.nasajon.com.br;UP;HARD;1;TCP OK - 0.078 second response time on paineldefundo.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: pontoweb.nasajon.com.br;UP;HARD;1;TCP OK - 0.075 second response time on pontoweb.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: portalfuncionario.nasajon.com.br;UP;HARD;1;TCP OK - 0.076 second response time on portalfuncionario.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: projetos.nasajon.com.br;UP;HARD;1;TCP OK - 0.086 second response time on projetos.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: rabbitmq.nasajon.com.br;UP;HARD;1;TCP OK - 0.079 second response time on rabbitmq.nasajon.com.br port 443
+[1635292800] CURRENT HOST STATE: sentry.nasajon.com.br;UP;HARD;1;TCP OK - 0.077 second response time on sentry.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: servicos.nasajon.com.br;UP;HARD;1;TCP OK - 0.077 second response time on servicos.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: sistemabap.com.br;UP;HARD;1;TCP OK - 0.118 second response time on sistemabap.com.br port 80
+[1635292800] CURRENT HOST STATE: symmetric.nasajon.com.br;UP;HARD;1;TCP OK - 0.079 second response time on symmetric.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: telemetria.nasajon.com.br;UP;HARD;1;TCP OK - 0.078 second response time on telemetria.nasajon.com.br port 80
+[1635292800] CURRENT HOST STATE: v2.nasajon.com.br;UP;HARD;1;TCP OK - 0.014 second response time on v2.nasajon.com.br port 80
+[1635292800] CURRENT SERVICE STATE: admin.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.107 seconds response time. admin.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: admin.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: admin.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 355 bytes in 0.327 second response time
+[1635292800] CURRENT SERVICE STATE: api.meurh.app;Check DNS;OK;HARD;1;DNS OK: 0.102 seconds response time. api.meurh.app returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: api.meurh.app;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'nasajon.app' will expire in 172 days on 2022-04-16 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: api.meurh.app;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 665 bytes in 0.339 second response time
+[1635292800] CURRENT SERVICE STATE: api.meutrabalho.app;Check DNS;OK;HARD;1;DNS OK: 0.013 seconds response time. api.meutrabalho.app returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: api.meutrabalho.app;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'meutrabalho.app' will expire in 320 days on 2022-09-11 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: api.meutrabalho.app;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 678 bytes in 0.327 second response time
+[1635292800] CURRENT SERVICE STATE: api.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.226 seconds response time. api.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: api.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: api.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 684 bytes in 0.341 second response time
+[1635292800] CURRENT SERVICE STATE: atendimento.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.046 seconds response time. atendimento.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: atendimento.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: atendimento.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 343 bytes in 0.322 second response time
+[1635292800] CURRENT SERVICE STATE: atendimentocomercial.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.014 seconds response time. atendimentocomercial.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: atendimentocomercial.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: atendimentocomercial.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 14412 bytes in 0.399 second response time
+[1635292800] CURRENT SERVICE STATE: auth.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.195 seconds response time. auth.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: auth.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: auth.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 874 bytes in 0.315 second response time
+[1635292800] CURRENT SERVICE STATE: avaliacaodesempenho.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.035 seconds response time. avaliacaodesempenho.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: avaliacaodesempenho.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: avaliacaodesempenho.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 3003 bytes in 1.973 second response time
+[1635292800] CURRENT SERVICE STATE: beta.admin.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.014 seconds response time. beta.admin.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: beta.admin.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'meutrabalho.app' will expire in 320 days on 2022-09-11 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: beta.admin.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 355 bytes in 0.389 second response time
+[1635292800] CURRENT SERVICE STATE: compilacoes.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.157 seconds response time. compilacoes.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: compilacoes.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: compilacoes.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 3133 bytes in 1.998 second response time
+[1635292800] CURRENT SERVICE STATE: conta.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.045 seconds response time. conta.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: conta.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: conta.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 355 bytes in 0.327 second response time
+[1635292800] CURRENT SERVICE STATE: diretorio.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.012 seconds response time. diretorio.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: diretorio.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: diretorio.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 355 bytes in 0.367 second response time
+[1635292800] CURRENT SERVICE STATE: gp.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.019 seconds response time. gp.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: gp.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: gp.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 8517 bytes in 0.312 second response time
+[1635292800] CURRENT SERVICE STATE: jenkins.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.138 seconds response time. jenkins.nasajon.com.br returns 52.43.134.8
+[1635292800] CURRENT SERVICE STATE: jenkins.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'jenkins.nasajon.com.br' will expire in 49 days on 2021-12-15 11:23 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: jenkins.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 1507288 bytes in 2.323 second response time
+[1635292800] CURRENT SERVICE STATE: licencas.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.203 seconds response time. licencas.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: licencas.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: licencas.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 7422 bytes in 0.311 second response time
+[1635292800] CURRENT SERVICE STATE: login.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.172 seconds response time. login.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: login.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: login.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 3730 bytes in 0.343 second response time
+[1635292800] CURRENT SERVICE STATE: lp.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.233 seconds response time. lp.nasajon.com.br returns 44.235.102.4,52.36.11.102,54.184.126.88,54.184.220.2
+[1635292800] CURRENT SERVICE STATE: lp.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: lp.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 15664 bytes in 0.955 second response time
+[1635292800] CURRENT SERVICE STATE: maladireta.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.071 seconds response time. maladireta.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: maladireta.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: maladireta.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 3022 bytes in 2.553 second response time
+[1635292800] CURRENT SERVICE STATE: multinotas.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.017 seconds response time. multinotas.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: multinotas.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: multinotas.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 372 bytes in 0.696 second response time
+[1635292800] CURRENT SERVICE STATE: nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.024 seconds response time. nasajon.com.br returns 44.235.102.4,52.36.11.102,54.184.126.88,54.184.220.2
+[1635292800] CURRENT SERVICE STATE: nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'nasajon.com.br' will expire in 225 days on 2022-06-08 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 6937 bytes in 0.876 second response time
+[1635292800] CURRENT SERVICE STATE: paineldefundo.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.115 seconds response time. paineldefundo.nasajon.com.br returns 44.235.102.4,52.36.11.102,54.184.126.88,54.184.220.2
+[1635292800] CURRENT SERVICE STATE: paineldefundo.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: paineldefundo.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 12131 bytes in 0.310 second response time
+[1635292800] CURRENT SERVICE STATE: pontoweb.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.045 seconds response time. pontoweb.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: pontoweb.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: pontoweb.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 4961 bytes in 1.283 second response time
+[1635292800] CURRENT SERVICE STATE: portalfuncionario.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.015 seconds response time. portalfuncionario.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: portalfuncionario.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: portalfuncionario.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 678 bytes in 0.378 second response time
+[1635292800] CURRENT SERVICE STATE: projetos.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.023 seconds response time. projetos.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: projetos.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: projetos.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 19280 bytes in 0.769 second response time
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-regras;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-slas;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-slas-violacao;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_enviar;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_processar;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[ATENDIMENTO] slas;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (2) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] atualizar-no-sincronia;OK;HARD;1;RABBITMQ OK - messages OK (2) messages_ready OK (0) messages_unacknowledged OK (2) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] atualizar-tabela-sincronia;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] criar-no-sincronia;OK;HARD;1;RABBITMQ OK - messages OK (8) messages_ready OK (0) messages_unacknowledged OK (8) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] envio;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] remover-no-sincronia;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[DIRETORIO] sincronia-configuracao-atualizar;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MALA DIRETA] campanha-montagem;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MALA DIRETA] envio;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MEU RH] calculo-salario;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cancelamento;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cce;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-cancelamento;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-cce;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-evento;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-gaps;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-manifestacao;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-nfce;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-nfce-cancelamento;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-nfe;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-consultar-lote;OK;HARD;1;RABBITMQ OK - messages OK (578) messages_ready OK (0) messages_unacknowledged OK (578) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-consultar-protocolo;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-converter;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-crawler-nfe;OK;HARD;1;RABBITMQ OK - messages OK (21) messages_ready OK (19) messages_unacknowledged OK (2) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-cte-consultar;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-cte-consultar-lote;OK;HARD;1;RABBITMQ OK - messages OK (3) messages_ready OK (2) messages_unacknowledged OK (1) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-documento-orfao;OK;HARD;1;RABBITMQ OK - messages OK (3691) messages_ready OK (3691) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cancelamento;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cte;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-manifestar-nota;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;OK;HARD;1;RABBITMQ OK - messages OK (1) messages_ready OK (0) messages_unacknowledged OK (1) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-schema-desconhecido;OK;HARD;1;RABBITMQ OK - messages OK (3801) messages_ready OK (3801) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-trata-erros;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] comparar-foto-marcacao;OK;HARD;1;RABBITMQ OK - messages OK (130) messages_ready OK (0) messages_unacknowledged OK (130) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-colaborador;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-gestor;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-por-tenant;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao-trabalhador;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao-trabalhador-individual;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador-individual;OK;HARD;1;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635292800] CURRENT SERVICE STATE: sentry.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.012 seconds response time. sentry.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: sentry.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: sentry.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 342 bytes in 0.610 second response time
+[1635292800] CURRENT SERVICE STATE: servicos.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.209 seconds response time. servicos.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: servicos.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: servicos.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 8167 bytes in 0.326 second response time
+[1635292800] CURRENT SERVICE STATE: sistemabap.com.br;Check DNS;OK;HARD;1;DNS OK: 0.026 seconds response time. sistemabap.com.br returns 54.232.147.215,54.232.201.103,54.232.32.37
+[1635292800] CURRENT SERVICE STATE: sistemabap.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate 'meutrabalho.app' will expire in 220 days on 2022-06-03 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: sistemabap.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5651 bytes in 5.051 second response time
+[1635292800] CURRENT SERVICE STATE: symmetric.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.096 seconds response time. symmetric.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: symmetric.nasajon.com.br;check_target;OK;HARD;1;TCP OK - 0.075 second response time on symmetric.nasajon.com.br port 80
+[1635292800] CURRENT SERVICE STATE: symmetric.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: telemetria.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.151 seconds response time. telemetria.nasajon.com.br returns 34.216.187.68,44.230.4.151,52.32.50.218,52.36.83.44
+[1635292800] CURRENT SERVICE STATE: telemetria.nasajon.com.br;post_api;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 335 bytes in 0.315 second response time
+[1635292800] CURRENT SERVICE STATE: telemetria.nasajon.com.br;ssl_cert_expire;OK;HARD;1;SSL OK - Certificate '*.nasajon.com.br' will expire in 303 days on 2022-08-25 23:59 +0000/UTC.
+[1635292800] CURRENT SERVICE STATE: v2.nasajon.com.br;Check DNS;OK;HARD;1;DNS OK: 0.221 seconds response time. v2.nasajon.com.br returns 167.114.1.112
+[1635292800] CURRENT SERVICE STATE: v2.nasajon.com.br;url_check;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 66433 bytes in 0.074 second response time
+[1635295080] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635295100] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 69358 bytes in 0.079 second response time
+[1635295502] Auto-save of retention data completed successfully.
+[1635295856] SERVICE ALERT: sistemabap.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635295886] SERVICE ALERT: sistemabap.com.br;url_check;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1635295898] HOST ALERT: sistemabap.com.br;DOWN;SOFT;1;CRITICAL - Socket timeout
+[1635295905] HOST ALERT: sistemabap.com.br;UP;SOFT;1;TCP OK - 0.117 second response time on sistemabap.com.br port 80
+[1635295911] SERVICE ALERT: sistemabap.com.br;url_check;OK;SOFT;3;HTTP OK: HTTP/1.1 200 OK - 5651 bytes in 5.145 second response time
+[1635296090] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635296110] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 68102 bytes in 0.072 second response time
+[1635297980] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635298001] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 70613 bytes in 0.553 second response time
+[1635299102] Auto-save of retention data completed successfully.
+[1635299591] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635299611] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 66819 bytes in 0.066 second response time
+[1635302321] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635302342] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 65112 bytes in 0.076 second response time
+[1635302702] Auto-save of retention data completed successfully.
+[1635303618] Warning: Service performance data file processing command '/opt/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1635303647] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador;WARNING;SOFT;1;RABBITMQ WARNING - messages WARNING (187), messages_ready OK (186) messages_unacknowledged OK (1) consumers OK (0)
+[1635303669] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador;OK;SOFT;2;RABBITMQ OK - messages OK (100) messages_ready OK (99) messages_unacknowledged OK (1) consumers OK (0) All queues under the thresholds
+[1635305728] SERVICE ALERT: sistemabap.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635305754] SERVICE ALERT: sistemabap.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 5651 bytes in 5.241 second response time
+[1635306302] Auto-save of retention data completed successfully.
+[1635309902] Auto-save of retention data completed successfully.
+[1635310592] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635310612] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 64297 bytes in 0.063 second response time
+[1635313502] Auto-save of retention data completed successfully.
+[1635315284] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635315304] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 61330 bytes in 0.073 second response time
+[1635317102] Auto-save of retention data completed successfully.
+[1635320702] Auto-save of retention data completed successfully.
+[1635324302] Auto-save of retention data completed successfully.
+[1635326813] SERVICE ALERT: sistemabap.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635326824] SERVICE ALERT: sistemabap.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635326834] SERVICE ALERT: sistemabap.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate 'meutrabalho.app' will expire in 219 days on 2022-06-03 23:59 +0000/UTC.
+[1635326849] SERVICE ALERT: sistemabap.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 5651 bytes in 5.246 second response time
+[1635327902] Auto-save of retention data completed successfully.
+[1635331502] Auto-save of retention data completed successfully.
+[1635331539] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;SOFT;1;RABBITMQ WARNING - messages WARNING (15298), messages_ready OK (15296) messages_unacknowledged OK (2) consumers OK (0)
+[1635331559] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;SOFT;2;RABBITMQ WARNING - messages WARNING (15708), messages_ready OK (15706) messages_unacknowledged OK (2) consumers OK (0)
+[1635331580] SERVICE NOTIFICATION: nagiosadmin;rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;notify-service-by-email;RABBITMQ WARNING - messages WARNING (15701), messages_ready OK (15699) messages_unacknowledged OK (2) consumers OK (0)
+[1635331580] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;HARD;3;RABBITMQ WARNING - messages WARNING (15701), messages_ready OK (15699) messages_unacknowledged OK (2) consumers OK (0)
+[1635331841] SERVICE NOTIFICATION: nagiosadmin;rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;CRITICAL;notify-service-by-email;RABBITMQ CRITICAL - messages CRITICAL (18090), messages_ready OK (18088) messages_unacknowledged OK (2) consumers OK (0)
+[1635331841] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;CRITICAL;HARD;3;RABBITMQ CRITICAL - messages CRITICAL (18090), messages_ready OK (18088) messages_unacknowledged OK (2) consumers OK (0)
+[1635334061] SERVICE NOTIFICATION: nagiosadmin;rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;notify-service-by-email;RABBITMQ WARNING - messages WARNING (17555), messages_ready OK (15897) messages_unacknowledged OK (1658) consumers OK (0)
+[1635334061] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;WARNING;HARD;3;RABBITMQ WARNING - messages WARNING (17555), messages_ready OK (15897) messages_unacknowledged OK (1658) consumers OK (0)
+[1635334142] SERVICE NOTIFICATION: nagiosadmin;rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;OK;notify-service-by-email;RABBITMQ OK - messages OK (14734) messages_ready OK (12846) messages_unacknowledged OK (1888) consumers OK (0) All queues under the thresholds
+[1635334142] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-processar-documento;OK;HARD;3;RABBITMQ OK - messages OK (14734) messages_ready OK (12846) messages_unacknowledged OK (1888) consumers OK (0) All queues under the thresholds
+[1635334218] Warning: Service performance data file processing command '/opt/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1635335102] Auto-save of retention data completed successfully.
+[1635338313] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635338333] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 62372 bytes in 0.074 second response time
+[1635338702] Auto-save of retention data completed successfully.
+[1635339548] SERVICE ALERT: multinotas.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635339574] SERVICE ALERT: multinotas.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 372 bytes in 5.321 second response time
+[1635342302] Auto-save of retention data completed successfully.
+[1635342423] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635342453] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1635342483] SERVICE NOTIFICATION: nagiosadmin;v2.nasajon.com.br;url_check;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1635342483] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1635342511] SERVICE NOTIFICATION: nagiosadmin;v2.nasajon.com.br;url_check;OK;notify-service-by-email;HTTP OK: HTTP/1.1 200 OK - 64751 bytes in 7.750 second response time
+[1635342511] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;HARD;3;HTTP OK: HTTP/1.1 200 OK - 64751 bytes in 7.750 second response time
+[1635345902] Auto-save of retention data completed successfully.
+[1635349502] Auto-save of retention data completed successfully.
+[1635353025] SERVICE ALERT: multinotas.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635353055] SERVICE ALERT: multinotas.nasajon.com.br;url_check;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1635353080] SERVICE ALERT: multinotas.nasajon.com.br;url_check;OK;SOFT;3;HTTP OK: HTTP/1.1 200 OK - 372 bytes in 5.190 second response time
+[1635353102] Auto-save of retention data completed successfully.
+[1635355090] SERVICE ALERT: multinotas.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635355111] SERVICE ALERT: multinotas.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 372 bytes in 0.839 second response time
+[1635356702] Auto-save of retention data completed successfully.
+[1635360302] Auto-save of retention data completed successfully.
+[1635361218] Warning: Service performance data file processing command '/opt/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1635361266] wproc: Core Worker 37: job 160607 (pid=1255045) timed out. Killing it
+[1635361266] wproc: Core Worker 36: job 160607 (pid=1255046) timed out. Killing it
+[1635361266] wproc: Core Worker 35: job 160606 (pid=1255040) timed out. Killing it
+[1635361266] wproc: Core Worker 34: job 160609 (pid=1255059) timed out. Killing it
+[1635361266] wproc: CHECK job 160607 from worker Core Worker 36 timed out after 61.32s
+[1635361266] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-cancelamento;
+[1635361266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361266] Warning: Check of service '[MULTINOTAS] nf-armazenar-cancelamento' on host 'rabbitmq.nasajon.com.br' timed out after 61.322s!
+[1635361266] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cancelamento;CRITICAL;SOFT;1;(Service check timed out after 61.32 seconds)
+[1635361266] wproc: Core Worker 36: job 160608 (pid=1255051) timed out. Killing it
+[1635361266] wproc: CHECK job 160607 from worker Core Worker 37 timed out after 61.35s
+[1635361266] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-cte-cce;
+[1635361266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361266] Warning: Check of service '[MULTINOTAS] nf-armazenar-cte-cce' on host 'rabbitmq.nasajon.com.br' timed out after 61.351s!
+[1635361266] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-cce;CRITICAL;SOFT;1;(Service check timed out after 61.35 seconds)
+[1635361266] wproc: Core Worker 37: job 160611 (pid=1255076) timed out. Killing it
+[1635361266] wproc: CHECK job 160609 from worker Core Worker 34 timed out after 60.71s
+[1635361266] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-emissor-cte;
+[1635361266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361266] Warning: Check of service '[MULTINOTAS] nf-emissor-cte' on host 'rabbitmq.nasajon.com.br' timed out after 60.713s!
+[1635361266] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cte;CRITICAL;SOFT;1;(Service check timed out after 60.71 seconds)
+[1635361266] wproc: Core Worker 34: job 160612 (pid=1255090) timed out. Killing it
+[1635361266] wproc: CHECK job 160606 from worker Core Worker 35 timed out after 61.65s
+[1635361266] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] comparar-foto-marcacao;
+[1635361266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361266] Warning: Check of service '[PONTO WEB] comparar-foto-marcacao' on host 'rabbitmq.nasajon.com.br' timed out after 61.645s!
+[1635361266] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] comparar-foto-marcacao;CRITICAL;SOFT;1;(Service check timed out after 61.65 seconds)
+[1635361266] wproc: CHECK job 160608 from worker Core Worker 36 timed out after 61.25s
+[1635361266] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-cte-evento;
+[1635361266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361266] Warning: Check of service '[MULTINOTAS] nf-armazenar-cte-evento' on host 'rabbitmq.nasajon.com.br' timed out after 61.254s!
+[1635361266] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-evento;CRITICAL;SOFT;1;(Service check timed out after 61.25 seconds)
+[1635361266] wproc: Core Worker 36: job 160611 (pid=1255075) timed out. Killing it
+[1635361270] wproc: CHECK job 160611 from worker Core Worker 37 timed out after 60.51s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-consultar-lote;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-consultar-lote' on host 'rabbitmq.nasajon.com.br' timed out after 60.508s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-consultar-lote;CRITICAL;SOFT;1;(Service check timed out after 60.51 seconds)
+[1635361270] wproc: Core Worker 37: job 160607 (pid=1255045): Dormant child reaped
+[1635361270] wproc: Core Worker 37: job 160611 (pid=1255076): Dormant child reaped
+[1635361270] wproc: Core Worker 37: job 160615 (pid=1255115) timed out. Killing it
+[1635361270] wproc: CHECK job 160615 from worker Core Worker 37 timed out after 60.23s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-cce;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-armazenar-cce' on host 'rabbitmq.nasajon.com.br' timed out after 60.231s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cce;CRITICAL;SOFT;1;(Service check timed out after 60.23 seconds)
+[1635361270] wproc: Core Worker 37: tv.tv_sec is currently 1635361267
+[1635361270] wproc: Core Worker 37: Failed to reap child with pid 1255115. Next attempt @ 1635361272.442537
+[1635361270] wproc: Core Worker 37: job 160619 (pid=1255141) timed out. Killing it
+[1635361270] wproc: CHECK job 160619 from worker Core Worker 37 timed out after 60.07s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] recalculo-por-apuracao-trabalhador;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[PONTO WEB] recalculo-por-apuracao-trabalhador' on host 'rabbitmq.nasajon.com.br' timed out after 60.072s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao-trabalhador;CRITICAL;SOFT;1;(Service check timed out after 60.07 seconds)
+[1635361270] wproc: Core Worker 37: job 160619 (pid=1255141): Dormant child reaped
+[1635361270] wproc: Core Worker 37: job 160625 (pid=1255170) timed out. Killing it
+[1635361270] wproc: CHECK job 160625 from worker Core Worker 37 timed out after 60.01s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MEU RH] calculo-salario;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MEU RH] calculo-salario' on host 'rabbitmq.nasajon.com.br' timed out after 60.008s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MEU RH] calculo-salario;CRITICAL;SOFT;1;(Service check timed out after 60.01 seconds)
+[1635361270] wproc: Core Worker 37: job 160625 (pid=1255170): Dormant child reaped
+[1635361270] wproc: CHECK job 160612 from worker Core Worker 34 timed out after 60.20s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] resumo-trabalhador-individual;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[PONTO WEB] resumo-trabalhador-individual' on host 'rabbitmq.nasajon.com.br' timed out after 60.196s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador-individual;CRITICAL;SOFT;1;(Service check timed out after 60.20 seconds)
+[1635361270] wproc: Core Worker 34: job 160613 (pid=1255098) timed out. Killing it
+[1635361270] wproc: CHECK job 160613 from worker Core Worker 34 timed out after 60.18s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-nfe;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-armazenar-nfe' on host 'rabbitmq.nasajon.com.br' timed out after 60.180s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-nfe;CRITICAL;SOFT;1;(Service check timed out after 60.18 seconds)
+[1635361270] wproc: Core Worker 34: job 160613 (pid=1255098): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160615 (pid=1255124) timed out. Killing it
+[1635361270] wproc: CHECK job 160615 from worker Core Worker 34 timed out after 60.10s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-converter;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-converter' on host 'rabbitmq.nasajon.com.br' timed out after 60.098s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-converter;CRITICAL;SOFT;1;(Service check timed out after 60.10 seconds)
+[1635361270] wproc: Core Worker 34: job 160616 (pid=1255129) timed out. Killing it
+[1635361270] wproc: CHECK job 160616 from worker Core Worker 34 timed out after 60.23s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[ATENDIMENTO] emails_enviar;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[ATENDIMENTO] emails_enviar' on host 'rabbitmq.nasajon.com.br' timed out after 60.229s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_enviar;CRITICAL;SOFT;1;(Service check timed out after 60.23 seconds)
+[1635361270] wproc: Core Worker 34: job 160615 (pid=1255124): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160616 (pid=1255129): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160617 (pid=1255135) timed out. Killing it
+[1635361270] wproc: CHECK job 160617 from worker Core Worker 34 timed out after 60.16s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] resumo-trabalhador;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[PONTO WEB] resumo-trabalhador' on host 'rabbitmq.nasajon.com.br' timed out after 60.157s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador;CRITICAL;SOFT;1;(Service check timed out after 60.16 seconds)
+[1635361270] wproc: Core Worker 34: job 160617 (pid=1255135): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160621 (pid=1255156) timed out. Killing it
+[1635361270] wproc: CHECK job 160621 from worker Core Worker 34 timed out after 60.14s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-armazenar-gaps;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-armazenar-gaps' on host 'rabbitmq.nasajon.com.br' timed out after 60.139s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-gaps;CRITICAL;SOFT;1;(Service check timed out after 60.14 seconds)
+[1635361270] wproc: Core Worker 34: job 160621 (pid=1255156): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160622 (pid=1255160) timed out. Killing it
+[1635361270] wproc: CHECK job 160622 from worker Core Worker 34 timed out after 60.06s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[ATENDIMENTO] emails_processar;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[ATENDIMENTO] emails_processar' on host 'rabbitmq.nasajon.com.br' timed out after 60.061s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_processar;CRITICAL;SOFT;1;(Service check timed out after 60.06 seconds)
+[1635361270] wproc: Core Worker 34: job 160622 (pid=1255160): Dormant child reaped
+[1635361270] wproc: Core Worker 34: job 160624 (pid=1255169) timed out. Killing it
+[1635361270] wproc: CHECK job 160624 from worker Core Worker 34 timed out after 60.01s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[ATENDIMENTO] chamados-slas;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[ATENDIMENTO] chamados-slas' on host 'rabbitmq.nasajon.com.br' timed out after 60.011s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-slas;CRITICAL;SOFT;1;(Service check timed out after 60.01 seconds)
+[1635361270] wproc: Core Worker 34: job 160624 (pid=1255169): Dormant child reaped
+[1635361270] wproc: CHECK job 160611 from worker Core Worker 36 timed out after 60.60s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[DIRETORIO] remover-no-sincronia;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[DIRETORIO] remover-no-sincronia' on host 'rabbitmq.nasajon.com.br' timed out after 60.601s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] remover-no-sincronia;CRITICAL;SOFT;1;(Service check timed out after 60.60 seconds)
+[1635361270] wproc: Core Worker 36: job 160607 (pid=1255046): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160613 (pid=1255095) timed out. Killing it
+[1635361270] wproc: CHECK job 160613 from worker Core Worker 36 timed out after 60.12s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[DIRETORIO] criar-no-sincronia;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[DIRETORIO] criar-no-sincronia' on host 'rabbitmq.nasajon.com.br' timed out after 60.115s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] criar-no-sincronia;CRITICAL;SOFT;1;(Service check timed out after 60.12 seconds)
+[1635361270] wproc: Core Worker 36: job 160608 (pid=1255051): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160611 (pid=1255075): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160614 (pid=1255112) timed out. Killing it
+[1635361270] wproc: CHECK job 160614 from worker Core Worker 36 timed out after 60.47s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[DIRETORIO] atualizar-tabela-sincronia;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[DIRETORIO] atualizar-tabela-sincronia' on host 'rabbitmq.nasajon.com.br' timed out after 60.472s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] atualizar-tabela-sincronia;CRITICAL;SOFT;1;(Service check timed out after 60.47 seconds)
+[1635361270] wproc: Core Worker 36: job 160616 (pid=1255127) timed out. Killing it
+[1635361270] wproc: CHECK job 160616 from worker Core Worker 36 timed out after 60.17s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-documento-orfao;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-documento-orfao' on host 'rabbitmq.nasajon.com.br' timed out after 60.167s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-documento-orfao;CRITICAL;SOFT;1;(Service check timed out after 60.17 seconds)
+[1635361270] wproc: Core Worker 36: job 160614 (pid=1255112): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160616 (pid=1255127): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160621 (pid=1255154) timed out. Killing it
+[1635361270] wproc: CHECK job 160621 from worker Core Worker 36 timed out after 60.11s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[ATENDIMENTO] slas;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[ATENDIMENTO] slas' on host 'rabbitmq.nasajon.com.br' timed out after 60.105s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] slas;CRITICAL;SOFT;1;(Service check timed out after 60.11 seconds)
+[1635361270] wproc: Core Worker 36: job 160621 (pid=1255154): Dormant child reaped
+[1635361270] wproc: Core Worker 36: job 160624 (pid=1255167) timed out. Killing it
+[1635361270] wproc: CHECK job 160624 from worker Core Worker 36 timed out after 60.01s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] notificacao-gestor;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[PONTO WEB] notificacao-gestor' on host 'rabbitmq.nasajon.com.br' timed out after 60.013s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-gestor;CRITICAL;SOFT;1;(Service check timed out after 60.01 seconds)
+[1635361270] wproc: Core Worker 36: job 160624 (pid=1255167): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160606 (pid=1255040): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160613 (pid=1255096) timed out. Killing it
+[1635361270] wproc: CHECK job 160613 from worker Core Worker 35 timed out after 60.40s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] notificacao-por-tenant;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[PONTO WEB] notificacao-por-tenant' on host 'rabbitmq.nasajon.com.br' timed out after 60.401s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-por-tenant;CRITICAL;SOFT;1;(Service check timed out after 60.40 seconds)
+[1635361270] wproc: Core Worker 35: job 160613 (pid=1255096): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160615 (pid=1255119) timed out. Killing it
+[1635361270] wproc: CHECK job 160615 from worker Core Worker 35 timed out after 60.07s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-trata-erros;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-trata-erros' on host 'rabbitmq.nasajon.com.br' timed out after 60.071s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-trata-erros;CRITICAL;SOFT;1;(Service check timed out after 60.07 seconds)
+[1635361270] wproc: Core Worker 35: job 160616 (pid=1255128) timed out. Killing it
+[1635361270] wproc: CHECK job 160616 from worker Core Worker 35 timed out after 60.07s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[DIRETORIO] sincronia-configuracao-atualizar;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[DIRETORIO] sincronia-configuracao-atualizar' on host 'rabbitmq.nasajon.com.br' timed out after 60.074s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] sincronia-configuracao-atualizar;CRITICAL;SOFT;1;(Service check timed out after 60.07 seconds)
+[1635361270] wproc: Core Worker 35: job 160616 (pid=1255128): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160618 (pid=1255137) timed out. Killing it
+[1635361270] wproc: CHECK job 160618 from worker Core Worker 35 timed out after 60.26s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-schema-desconhecido;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-schema-desconhecido' on host 'rabbitmq.nasajon.com.br' timed out after 60.264s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-schema-desconhecido;CRITICAL;SOFT;1;(Service check timed out after 60.26 seconds)
+[1635361270] wproc: Core Worker 35: job 160618 (pid=1255137): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160622 (pid=1255159) timed out. Killing it
+[1635361270] wproc: CHECK job 160622 from worker Core Worker 35 timed out after 60.09s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-cte-consultar;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MULTINOTAS] nf-cte-consultar' on host 'rabbitmq.nasajon.com.br' timed out after 60.085s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-cte-consultar;CRITICAL;SOFT;1;(Service check timed out after 60.09 seconds)
+[1635361270] wproc: Core Worker 35: job 160622 (pid=1255159): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160623 (pid=1255164) timed out. Killing it
+[1635361270] wproc: CHECK job 160623 from worker Core Worker 35 timed out after 60.03s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[MALA DIRETA] campanha-montagem;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[MALA DIRETA] campanha-montagem' on host 'rabbitmq.nasajon.com.br' timed out after 60.033s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[MALA DIRETA] campanha-montagem;CRITICAL;SOFT;1;(Service check timed out after 60.03 seconds)
+[1635361270] wproc: Core Worker 35: job 160623 (pid=1255164): Dormant child reaped
+[1635361270] wproc: Core Worker 35: job 160624 (pid=1255168) timed out. Killing it
+[1635361270] wproc: CHECK job 160624 from worker Core Worker 35 timed out after 60.03s
+[1635361270] wproc:   host=rabbitmq.nasajon.com.br; service=[ATENDIMENTO] chamados-regras;
+[1635361270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361270] Warning: Check of service '[ATENDIMENTO] chamados-regras' on host 'rabbitmq.nasajon.com.br' timed out after 60.025s!
+[1635361270] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-regras;CRITICAL;SOFT;1;(Service check timed out after 60.03 seconds)
+[1635361270] wproc: Core Worker 35: job 160624 (pid=1255168): Dormant child reaped
+[1635361271] wproc: Core Worker 36: job 160627 (pid=1255181) timed out. Killing it
+[1635361273] wproc: Core Worker 35: job 160627 (pid=1255182) timed out. Killing it
+[1635361273] wproc: CHECK job 160627 from worker Core Worker 35 timed out after 60.25s
+[1635361273] wproc:   host=rabbitmq.nasajon.com.br; service=[MULTINOTAS] nf-emissor-cancelamento;
+[1635361273] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361273] Warning: Check of service '[MULTINOTAS] nf-emissor-cancelamento' on host 'rabbitmq.nasajon.com.br' timed out after 60.252s!
+[1635361273] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cancelamento;CRITICAL;SOFT;1;(Service check timed out after 60.25 seconds)
+[1635361273] wproc: Core Worker 35: tv.tv_sec is currently 1635361272
+[1635361273] wproc: Core Worker 35: Failed to reap child with pid 1255182. Next attempt @ 1635361277.100341
+[1635361273] wproc: CHECK job 160627 from worker Core Worker 36 timed out after 60.28s
+[1635361273] wproc:   host=rabbitmq.nasajon.com.br; service=[PONTO WEB] recalculo-por-apuracao;
+[1635361273] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1635361273] Warning: Check of service '[PONTO WEB] recalculo-por-apuracao' on host 'rabbitmq.nasajon.com.br' timed out after 60.280s!
+[1635361273] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao;CRITICAL;SOFT;1;(Service check timed out after 60.28 seconds)
+[1635361273] wproc: Core Worker 36: job 160627 (pid=1255181): Dormant child reaped
+[1635361277] wproc: Core Worker 35: job 160627 (pid=1255182): Dormant child reaped
+[1635361287] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cancelamento;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361287] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-cce;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361287] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cte-evento;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361288] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] comparar-foto-marcacao;OK;SOFT;2;RABBITMQ OK - messages OK (140) messages_ready OK (0) messages_unacknowledged OK (140) consumers OK (0) All queues under the thresholds
+[1635361288] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cte;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] sincronia-configuracao-atualizar;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] remover-no-sincronia;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-converter;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-cte-consultar;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-nfe;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] resumo-trabalhador-individual;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_processar;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] emails_enviar;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-gestor;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-documento-orfao;OK;SOFT;2;RABBITMQ OK - messages OK (3795) messages_ready OK (3795) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] slas;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (2) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MEU RH] calculo-salario;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-gaps;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] atualizar-tabela-sincronia;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-schema-desconhecido;OK;SOFT;2;RABBITMQ OK - messages OK (722) messages_ready OK (722) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[DIRETORIO] criar-no-sincronia;OK;SOFT;2;RABBITMQ OK - messages OK (8) messages_ready OK (0) messages_unacknowledged OK (8) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-armazenar-cce;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-trata-erros;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao-trabalhador;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-consultar-lote;OK;SOFT;2;RABBITMQ OK - messages OK (316) messages_ready OK (0) messages_unacknowledged OK (316) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-regras;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] notificacao-por-tenant;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[MALA DIRETA] campanha-montagem;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361295] SERVICE ALERT: rabbitmq.nasajon.com.br;[ATENDIMENTO] chamados-slas;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (1) All queues under the thresholds
+[1635361296] SERVICE ALERT: rabbitmq.nasajon.com.br;[MULTINOTAS] nf-emissor-cancelamento;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635361296] SERVICE ALERT: rabbitmq.nasajon.com.br;[PONTO WEB] recalculo-por-apuracao;OK;SOFT;2;RABBITMQ OK - messages OK (0) messages_ready OK (0) messages_unacknowledged OK (0) consumers OK (0) All queues under the thresholds
+[1635363902] Auto-save of retention data completed successfully.
+[1635364681] SERVICE ALERT: sistemabap.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364706] SERVICE ALERT: sistemabap.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 5651 bytes in 4.920 second response time
+[1635364721] SERVICE ALERT: avaliacaodesempenho.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364721] SERVICE ALERT: paineldefundo.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364742] SERVICE ALERT: avaliacaodesempenho.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate '*.nasajon.com.br' will expire in 302 days on 2022-08-25 23:59 +0000/UTC.
+[1635364742] SERVICE ALERT: paineldefundo.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 12132 bytes in 0.317 second response time
+[1635364761] SERVICE ALERT: lp.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364761] SERVICE ALERT: compilacoes.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364782] SERVICE ALERT: lp.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 15664 bytes in 0.944 second response time
+[1635364783] SERVICE ALERT: compilacoes.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 3133 bytes in 1.959 second response time
+[1635364800] SERVICE ALERT: avaliacaodesempenho.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: maladireta.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] HOST ALERT: portalfuncionario.nasajon.com.br;DOWN;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: diretorio.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: diretorio.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: jenkins.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: beta.admin.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: telemetria.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364801] SERVICE ALERT: login.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364811] HOST ALERT: portalfuncionario.nasajon.com.br;UP;SOFT;1;TCP OK - 0.080 second response time on portalfuncionario.nasajon.com.br port 80
+[1635364822] SERVICE ALERT: diretorio.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate '*.nasajon.com.br' will expire in 302 days on 2022-08-25 23:59 +0000/UTC.
+[1635364822] SERVICE ALERT: diretorio.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 355 bytes in 0.334 second response time
+[1635364822] SERVICE ALERT: jenkins.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate 'jenkins.nasajon.com.br' will expire in 48 days on 2021-12-15 11:23 +0000/UTC.
+[1635364822] SERVICE ALERT: telemetria.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate '*.nasajon.com.br' will expire in 302 days on 2022-08-25 23:59 +0000/UTC.
+[1635364822] SERVICE ALERT: beta.admin.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate 'meutrabalho.app' will expire in 319 days on 2022-09-11 23:59 +0000/UTC.
+[1635364822] SERVICE ALERT: login.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 3730 bytes in 0.316 second response time
+[1635364822] SERVICE ALERT: avaliacaodesempenho.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 3003 bytes in 1.988 second response time
+[1635364823] SERVICE ALERT: maladireta.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 3022 bytes in 2.595 second response time
+[1635364841] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635364871] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1635364893] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;3;HTTP OK: HTTP/1.1 200 OK - 69738 bytes in 2.540 second response time
+[1635367502] Auto-save of retention data completed successfully.
+[1635369523] SERVICE ALERT: v2.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635369543] SERVICE ALERT: v2.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 63306 bytes in 0.072 second response time
+[1635371102] Auto-save of retention data completed successfully.
+[1635374561] SERVICE ALERT: conta.nasajon.com.br;ssl_cert_expire;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635374582] SERVICE ALERT: conta.nasajon.com.br;ssl_cert_expire;OK;SOFT;2;SSL OK - Certificate '*.nasajon.com.br' will expire in 302 days on 2022-08-25 23:59 +0000/UTC.
+[1635374702] Auto-save of retention data completed successfully.
+[1635375561] SERVICE ALERT: projetos.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635375561] HOST ALERT: atendimento.nasajon.com.br;DOWN;SOFT;1;CRITICAL - Socket timeout
+[1635375561] SERVICE ALERT: gp.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635375567] HOST ALERT: atendimento.nasajon.com.br;UP;SOFT;1;TCP OK - 0.077 second response time on atendimento.nasajon.com.br port 80
+[1635375582] SERVICE ALERT: gp.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 8510 bytes in 0.308 second response time
+[1635375582] SERVICE ALERT: projetos.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 19261 bytes in 0.764 second response time
+[1635375601] SERVICE ALERT: sentry.nasajon.com.br;url_check;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1635375622] SERVICE ALERT: sentry.nasajon.com.br;url_check;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 342 bytes in 0.624 second response time
+[1635378302] Auto-save of retention data completed successfully.
